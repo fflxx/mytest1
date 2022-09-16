@@ -1,1 +1,58 @@
 df
+# Remember to change env in background.js
+# Remember to change env in background.js
+# Remember to change env in background.js
+# ENV="staging"
+# ENV="stage"
+ENV="test"
+# ENV="dev"
+ENCRYPT_KEY=590362972hireteammatehtm
+WEB_ENCRYPT_KEY=169764600589hireteammatehtm
+GMAIL_INTEGRATION_ALTERNATE_ID=972035196152-6opefeamkj9e35ekp08vps5d3h7j0utc.apps.googleusercontent.com
+CLOSE_LOG=false
+INBOXSDK_APP_ID=sdk_htm-gmail-inbox_0e50a883cf
+# npm config set "@fortawesome:registry" https://npm.fontawesome.com/ && \
+# npm config set "//npm.fontawesome.com/:_authToken" AFF38E9B-6DD5-4985-84EA-3740C2255FDB
+AVATAR_BUCKET=htm-cdn-test
+COOKIE_DOMAIN=.testhtm.com
+BACK_END_API_URL=https://api.testhtm.com/v1
+BACK_END_API_URL_V2=https://api.testhtm.com/v2
+SITE_URL=https://app.testhtm.com
+LOGGER_SERVICE_API_URL=https://loggerservice.testhtm.com/public/v1
+
+# ENV="staging"
+# ENV="stage"
+ENV="test"
+# ENV="dev"
+ENCRYPT_KEY=590362972hireteammatehtm
+WEB_ENCRYPT_KEY=169764600589hireteammatehtm
+GMAIL_INTEGRATION_ALTERNATE_ID=972035196152-6opefeamkj9e35ekp08vps5d3h7j0utc.apps.googleusercontent.com
+CLOSE_LOG=false
+INBOXSDK_APP_ID=sdk_htm-gmail-inbox_0e50a883cf
+# npm config set "@fortawesome:registry" https://npm.fontawesome.com/ && \
+# npm config set "//npm.fontawesome.com/:_authToken" AFF38E9B-6DD5-4985-84EA-3740C2255FDB
+AVATAR_BUCKET=htm-cdn-test
+COOKIE_DOMAIN=.testhtm.com
+BACK_END_API_URL=https://api.testhtm.com/v1
+BACK_END_API_URL_V2=https://api.testhtm.com/v2
+SITE_URL=https://app.testhtm.com
+LOGGER_SERVICE_API_URL=https://loggerservice.testhtm.com/public/v1
+
+# ENV="staging"
+# ENV="stage"
+ENV="test"
+# ENV="dev"
+ENCRYPT_KEY=590362972hireteammatehtm
+WEB_ENCRYPT_KEY=169764600589hireteammatehtm
+GMAIL_INTEGRATION_ALTERNATE_ID=972035196152-6opefeamkj9e35ekp08vps5d3h7j0utc.apps.googleusercontent.com
+CLOSE_LOG=false
+INBOXSDK_APP_ID=sdk_htm-gmail-inbox_0e50a883cf
+# npm config set "@fortawesome:registry" https://npm.fontawesome.com/ && \
+# npm config set "//npm.fontawesome.com/:_authToken" AFF38E9B-6DD5-4985-84EA-3740C2255FDB
+AVATAR_BUCKET=htm-cdn-test
+COOKIE_DOMAIN=.testhtm.com
+BACK_END_API_URL=https://api.testhtm.com/v1
+BACK_END_API_URL_V2=https://api.testhtm.com/v2
+SITE_URL=https://app.testhtm.com
+LOGGER_SERVICE_API_URL=https://loggerservice.testhtm.com/public/v1
+
